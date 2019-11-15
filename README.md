@@ -40,6 +40,7 @@ http:// -> https:// 変換時にエラーとなった 画像 URL
 
 <img src="30.jpg" width="80%">
 
+[YouTube](https://youtu.be/oP9MKKbJxs0)
 
 混合コンテンツについてお困りなことがございましたら、大島、ご検討ください。
 
